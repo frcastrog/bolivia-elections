@@ -12,6 +12,7 @@ Sciences • Humboldt-Universität zu Berlin
 ## Abstract
 
 Can protests produce changes in electoral behavior? In this paper, we examine variations in voter turnout and electoral preferences at the local level after a protest cycle. Using data on protest occurrence during the 2019 social mobilizations in Chile and Bolivia and a difference-in-differences design, we assess the impact that street demonstrations had on voting behavior in the elections that took place the following year. We found that turnout was higher in municipalities that had protests, while the incumbent vote was lower. We argue that the effect on turnout is explained by the surge in political efficacy that emerged from the protests. Furthermore, we suggest that the protests enabled more effective blame attribution and heightened the salience of political issues, leading to changes in voter preferences. These results underscore the effect of protests on electoral dynamics, highlighting their role not only in mobilizing voters but also in shaping electoral preferences.
+
 ------------------------------------------------------------------------
 
 ## How to download and replicate
